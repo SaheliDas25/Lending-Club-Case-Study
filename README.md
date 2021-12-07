@@ -15,7 +15,11 @@ The company wants to understand the driving factors (or driver variables) behind
 # Problem solving methodology
 
 1.Data Understanding
+
 2.Data Cleaning
+
 3.Univariate Analysis
+
 4.Bivariate Analysis
+
 5.Conclusion
